@@ -10,7 +10,9 @@ This app converts a fully functioning Google Books API search engine built with 
 ## Table of Contents 
 * 🔧 [Installation](#installation)
 * 🗒️ [Usage](#usage)
-* ⚖️  [License](#license)
+* 📌 [Demo](#Demo)
+* ⚖️ [License](#license)
+* ⭐ [Contributor](#Contributor)
 
 ## Installation
 ```typescript
@@ -24,9 +26,15 @@ $ npm start
 ```typescript
 $ npm start
 ```
-  
+## Demo
+![alt text](./demo/BookSearchEngine.gif)
+
 ##  License
 
  <a href="http://choosealicense.com/licenses/mit/" target="_blank">MIT License</a> ![MIT License](https://img.shields.io/badge/mit-brightgreen) 
 
+
+
+## Contributor
+Elham Bazazzadeh @2021
 
